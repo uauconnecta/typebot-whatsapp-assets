@@ -38,7 +38,7 @@
 }
 
 .typebot-host-bubble>.bubble-typing {
-  border-radius: 0 5px 5px 5px;
+  border-radius: 0 10px 10px 10px;
 }
 
 .typebot-host-bubble>.bubble-typing:after {
@@ -137,7 +137,7 @@ audio::-webkit-media-controls-play-button{
 
 audio::-webkit-media-controls-panel {
   background-color: #fff;
-  background-size: 200px 2000px;
+  background-size: 150px 2000px;
 }
 audio::-webkit-media-controls-current-time-display {
   position: absolute;
