@@ -137,12 +137,12 @@ audio::-webkit-media-controls-play-button{
 
 audio::-webkit-media-controls-panel {
   background-color: #fff;
-  background-size: 150px 2000px;
+  background-size: 100px 2000px;
 }
 audio::-webkit-media-controls-current-time-display {
   position: absolute;
-  margin-top: 40px;
-  margin-left: 50px;
+  margin-top: 20px;
+  margin-left: 30px;
   color: #666;
 }
 audio::-webkit-media-controls-time-remaining-display {
